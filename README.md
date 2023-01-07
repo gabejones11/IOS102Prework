@@ -2,11 +2,11 @@
 
 ### App Description
 
-`TODO://` My app allows users to create a personalized introduction by inputting their first and last name, school name, current year in school, number of pets, and whether or not they want more pets. With this information, the app generates an introduction that users can use to introduce themselves to others. The app is a fun and easy way for users to create a unique introduction that represents who they are.
+ My app allows users to create a personalized introduction by inputting their first and last name, school name, current year in school, number of pets, and whether or not they want more pets. With this information, the app generates an introduction that users can use to introduce themselves to others. The app is a fun and easy way for users to create a unique introduction that represents who they are.
 
 ### App Walk-though
 
-`TODO://` Here is a walkthrough of the app.
+ Here is a walkthrough of the app.
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
