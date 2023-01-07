@@ -1,19 +1,22 @@
-# IOS102Prework
-This repository is for the IOS102Prework CodePath course
+## Introduction App
 
-App Description: This app allows users to create a personalized introduction by inputting their first and last name, school name, current year in school, number of pets, and whether or not they want more pets. With this information, the app generates an introduction that users can use to introduce themselves to others. The app is a fun and easy way for users to create a unique introduction that represents who they are.
+### App Description
 
-Required Features: 
+`TODO://` My app allows users to create a personalized introduction by inputting their first and last name, school name, current year in school, number of pets, and whether or not they want more pets. With this information, the app generates an introduction that users can use to introduce themselves to others. The app is a fun and easy way for users to create a unique introduction that represents who they are.
 
-- 1. App displays an image of a school's logo
-- 2. App has three textfields for first, last, and school name
-- 3. App has a segmented control that changes student year
-- 4. Number of pets mathes the stepper the incriments or decriments by tapping the stepper
-- 5. Switch makes a statment about wanting more pets or not (true/false)
-- 6. Introduce yourself button shows alert box with an introduction and dismiss button
+### App Walk-though
 
-Features to add:
+`TODO://` Here is a walkthrough of the app.
 
-- 1. Make a button that a user can tap to change the color of the background view
-- 2. Make more buttons that provide additional information about the user
-- 3. Make a sytlistic change that is not default
+<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+
+
+### Required Features
+
+- [x] 1. App displays an image of a school's logo
+- [x] 2. App has three textfields for first, last, and school names
+- [x] 3. App has a segmented control that changes student year
+- [x] 4. Number of pet matches label is increased/decreased by stepper
+- [x] 5. Switch makes a statement about wanting more pets or not(true/false) 
+- [x] 6. Introduce yourself button shows alert box with an introduciton and dismiss button
+
