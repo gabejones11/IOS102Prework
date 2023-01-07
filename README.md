@@ -8,7 +8,7 @@
 
  Here is a walkthrough of the app.
 
-<img src="https://github.com/gabejones11/IOS102Prework/blob/main/Walkthrough.gif"
+<img src="https://github.com/gabejones11/IOS102Prework/blob/main/Walkthrough.gif"<br>
 
 
 ### Required Features
@@ -19,4 +19,3 @@
 - [x] 4. Number of pet matches label is increased/decreased by stepper
 - [x] 5. Switch makes a statement about wanting more pets or not(true/false) 
 - [x] 6. Introduce yourself button shows alert box with an introduciton and dismiss button
-
