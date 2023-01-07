@@ -8,6 +8,12 @@
 
  Here is a walkthrough of the app.
 
+<<<<<<< HEAD
+=======
+![Walkthrough](https://user-images.githubusercontent.com/57734022/211129642-10f7b75f-3ffc-4c2c-8dd7-cde43705d975.gif)
+
+
+>>>>>>> 02a977e628c61de60cbc22db2082f0eee0fd3d65
 
 ### Required Features
 
