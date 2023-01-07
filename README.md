@@ -8,7 +8,8 @@
 
  Here is a walkthrough of the app.
 
-![]("https://github.com/gabejones11/IOS102Prework/blob/main/Walkthrough.gif")
+![Walkthrough](https://user-images.githubusercontent.com/57734022/211129642-10f7b75f-3ffc-4c2c-8dd7-cde43705d975.gif)
+
 
 
 ### Required Features
