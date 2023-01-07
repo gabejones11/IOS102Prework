@@ -8,7 +8,7 @@
 
  Here is a walkthrough of the app.
 
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
+<img src="https://github.com/gabejones11/IOS102Prework/blob/main/Walkthrough.gif"
 
 
 ### Required Features
